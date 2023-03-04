@@ -115,10 +115,14 @@ body{
 }
 .food1{
     margin:auto;
+    margin-left: 30px;
+    margin-right: 30px;
     display:block;
 }
 .food2{
     margin:auto;
+    margin-left: 30px;
+    margin-right: 30px;
     display:block;
 }
 .food3{
